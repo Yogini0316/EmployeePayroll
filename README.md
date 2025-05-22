@@ -44,15 +44,21 @@ String url = "jdbc:sqlite:C:/path/to/your/database/empnet.sqlite";
 
 -----
 
-## How To Run
+## 🧑‍💻 How to Run
+
 1. clone this Repositary
   git clone https://github.com/Yogini0316/EmployeePayroll.git
+
   cd EmployeePayroll
-2. Open in your IDE and configure database connector
-3. For Netbeans right click project and run it
-4. For IntelliJ Run the main Java class
+3. Open in your IDE and configure database connector
+4. For Netbeans right click project and run it
+5. For IntelliJ Run the main Java class
    javac main class
    java main
+
+## 🙋‍♀️ Author
+Yogini Sonawane
+GitHub: Yogini0316
    
    
 
